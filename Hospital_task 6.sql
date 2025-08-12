@@ -1,4 +1,3 @@
-# Creating Task 6 SQL file with subqueries as per requirements
 -- Task 6: Subqueries and Nested Queries for Hospital Database
 
 use Hospital;
