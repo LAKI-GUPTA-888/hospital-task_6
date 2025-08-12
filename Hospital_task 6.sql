@@ -1,8 +1,9 @@
 # Creating Task 6 SQL file with subqueries as per requirements
--- task6_sql = """-- Task 6: Subqueries and Nested Queries for Hospital Database
--- 1. Scalar subquery in WHERE clause: Patient with the highest total bill
+-- Task 6: Subqueries and Nested Queries for Hospital Database
+
 use Hospital;
 
+-- 1. Scalar subquery in WHERE clause: Patient with the highest total bill
 
 SELECT patient_id, first_name, last_name
 FROM Patients
